@@ -1,2 +1,2 @@
 # Alan-Garcia-Z
-Practica de introducción a la ingenieria 
+mi-primer-repositorio_Alan-Garcia-Z
