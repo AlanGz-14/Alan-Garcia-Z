@@ -3,3 +3,9 @@ mi-tercer-repositorio_Alan-Garcia/
 └── datos_clientes/
     │
     └── clientes.csv
+id_cliente,nombre,apellido,correo,ciudad,telefono
+101,Juan,Perez,juan.perez@gamil.com,Guayaquil,0991234567
+102,Maria,Gomez,maria.gomez@gmail.com,Quito,0987654321
+103,Carlos,Lopez,carlos.lopez@gmail.com,Cuenca,0971122334
+104,Ana,Torres,ana.torres@gmail.com,Manta,0965544332
+105,Luis,Ramirez,luis.ramirez@gmail.com,Machala,0959988776
